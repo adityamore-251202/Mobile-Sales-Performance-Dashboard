@@ -21,7 +21,7 @@ This project focuses on analyzing regional mobile sales data to uncover key perf
 ---
 
 ## 🖥️ Dashboard Preview
-![Executive Dashboard](Screenshot%202026-07-04%20105057.jpg)
+![Executive Dashboard](https://github.com/adityamore-251202/Mobile-Sales-Performance-Dashboard/blob/main/Screenshot%202026-07-04%20105057.png)
 
 ---
 
