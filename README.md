@@ -21,7 +21,7 @@ This project focuses on analyzing regional mobile sales data to uncover key perf
 ---
 
 ## 🖥️ Dashboard Preview
-![Executive Dashboard]/(https://github.com/adityamore-251202/Mobile-Sales-Performance-Dashboard/blob/main/Mobile-Sales-Performance-Dashboard.png)
+![Executive Dashboard]/(https://github.com/adityamore-251202/Mobile-Sales-Performance-Dashboard/blob/main/Mobile%20Sales%20Performance%20Dashboard.png)
 
 ---
 
@@ -31,4 +31,4 @@ This project focuses on analyzing regional mobile sales data to uncover key perf
 
 ## 🚀 How to Use This Repository
 * 📊 **Dataset:** Download the [Mobile Sales Data.xlsx](https://github.com/adityamore-251202/Mobile-Sales-Performance-Dashboard/blob/main/Mobile%20Sales%20Data.xlsx) file to explore the raw data.
-* 🖼️ **Dashboard:** View the full-resolution [Executive Dashboard Image](https://github.com/adityamore-251202/Mobile-Sales-Performance-Dashboard/blob/main/Mobile-Sales-Performance-Dashboard.png) directly.
+* 🖼️ **Dashboard:** View the full-resolution [Executive Dashboard Image](https://github.com/adityamore-251202/Mobile-Sales-Performance-Dashboard/blob/main/Mobile%20Sales%20Performance%20Dashboard.png) directly.
